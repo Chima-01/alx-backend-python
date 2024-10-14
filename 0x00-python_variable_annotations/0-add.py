@@ -6,4 +6,7 @@
 
 
 def add(a: float, b: float) -> float:
+    """
+        Args: arguments of type float
+    """
     return (a + b)
